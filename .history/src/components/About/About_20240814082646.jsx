@@ -72,8 +72,8 @@ const About = () => {
             <b>Quality Assurance:</b> Our rigorous testing and quality assurance
             processes ensure that our software is reliable, secure, and
             user-friendly.
-          </p> */}
-        </div>
+          </p>
+        </div> */}
         <img
           src="/public/Image/pexels-mary-taylor-5896578.jpg"
           alt=""
