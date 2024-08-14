@@ -1,0 +1,81 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: white;
+  color: green;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  background-color: #333;
+  /* padding: 10px 20px; */
+}
+
+/* Logo Styling */
+.logo {
+  width: 100px;
+}
+
+.about {
+  margin: 10px;
+  padding: 10px;
+  /* color: rgb(175, 25, 25); */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.products {
+  margin: 10px;
+  padding: 10px;
+  /* color: rgb(175, 25, 25); */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.products img {
+  width: 280px;
+  height: 250px;
+}
+
+p {
+  /* color: rgb(175, 25, 25); */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  align-items: center;
+}
+
+h3 {
+  /* color: rgb(175, 25, 25); */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  align-items: center;
+}
+
+.partners {
+  margin: 10px;
+  padding: 10px;
+  /* color: rgb(175, 25, 25); */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.partners img {
+  width: 280px;
+  height: 250px;
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  /* padding: 10px 20px; */
+}
+
+/* Logo Styling */
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.about {
+  margin: 10px;
+  padding: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24;
+  font-weight: bold;
+}

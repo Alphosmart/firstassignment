@@ -1,0 +1,27 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  /* padding: 10px 20px; */
+}
+
+/* Logo Styling */
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.about {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
