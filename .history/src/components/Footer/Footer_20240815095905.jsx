@@ -25,34 +25,6 @@ const Footer = () => {
       </div>
 
       <p>&copy; 2021 Ashamsmart Dynamic Concepts</p>
-
-      <style jsx>{`
-        .footer {
-          display: flex;
-          justify-content: space-between;
-          padding: 20px;
-          background-color: #333;
-          color: white;
-        }
-        .footer div {
-          flex: 1;
-        }
-        .footer ul {
-          list-style-type: none;
-          padding: 0;
-        }
-        .footer li {
-          margin: 5px 0;
-        }
-        .footer h3 {
-          margin-bottom: 10px;
-        }
-        p {
-          text-align: center;
-          margin-top: 20px;
-          color: #666;
-        }
-      `}</style>
     </>
   );
 };
